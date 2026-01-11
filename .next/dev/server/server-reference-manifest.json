@@ -1,0 +1,21 @@
+{
+  "node": {
+    "404b9a9e0ca660ce3a42a36d965aaebc95ffca3d6f": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/lib/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "submitContactForm",
+          "filename": "lib/actions.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "filename": "lib/actions.ts",
+      "exportedName": "submitContactForm"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "i8J0pxwwPgO/T0JjjpA3Bhj1QEaX9FALHcICz+6NzZY="
+}

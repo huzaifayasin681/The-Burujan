@@ -1,0 +1,7 @@
+{
+  "/about/page": "app/about/page.js",
+  "/icon/route": "app-edge-has-no-entrypoint",
+  "/page": "app/page.js",
+  "/portal/page": "app/portal/page.js",
+  "/portfolio/page": "app/portfolio/page.js"
+}

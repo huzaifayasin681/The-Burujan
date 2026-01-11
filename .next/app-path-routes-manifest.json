@@ -1,0 +1,13 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/icon/route": "/icon",
+  "/opengraph-image/route": "/opengraph-image",
+  "/page": "/",
+  "/portal/page": "/portal",
+  "/portfolio/page": "/portfolio",
+  "/privacy-policy/page": "/privacy-policy",
+  "/sla/page": "/sla",
+  "/terms-of-service/page": "/terms-of-service"
+}
