@@ -1,4 +1,12 @@
-# The Burujan | Engineering Digital Empires
+# The Burujan
+
+![Stars](https://img.shields.io/github/stars/huzaifayasin681/The-Burujan?style=social) ![License](https://img.shields.io/github/license/huzaifayasin681/The-Burujan) ![Last commit](https://img.shields.io/github/last-commit/huzaifayasin681/The-Burujan) ![Next.js](https://img.shields.io/badge/Next.js-14-black) ![Three.js](https://img.shields.io/badge/3D-Three.js-black)
+
+> The official website of The Burujan digital agency, built with Next.js, Tailwind, Framer Motion and Three.js, including a project estimator and client portal.
+
+**Live demo:** https://theburujan.tech
+
+If you find this useful, please give it a ⭐ so more people can discover it.
 
 ![The Burujan](https://via.placeholder.com/1200x630/050505/D4AF37?text=THE+BURUJAN)
 
@@ -111,3 +119,17 @@ Built on an immutable foundation of modern web technologies:
 
 © 2026 The Burujan. All rights reserved.
 Confidential proprietary software. Unauthorized copying of this file, via any medium, is strictly prohibited.
+
+## Contributing
+
+Issues and pull requests are welcome. If you have an idea or found a bug, [open an issue](https://github.com/huzaifayasin681/The-Burujan/issues).
+
+## License
+
+Released under the [MIT License](LICENSE).
+
+## Author
+
+**Muhammad Huzaifa Hassan**, NOC Engineer and full stack developer, founder of [The Burujan](https://theburujan.tech)
+
+[GitHub](https://github.com/huzaifayasin681) · [LinkedIn](https://linkedin.com/in/huzaifa-hassan-4bb437222) · [Portfolio](https://nextjs-portfolio-opal-one.vercel.app)
